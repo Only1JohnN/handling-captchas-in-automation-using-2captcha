@@ -44,6 +44,28 @@ Before you begin, ensure you have the following installed on your system:
 
 4. Replace the example data (like input fields) with your target webpage’s data (if needed).
 
+## Project Structure
+
+```
+handling-captchas-in-automation-using-2captcha/
+│
+├── pagess/                       
+│   └── base_page.py
+│   └── captcha_page.py
+│
+├── tests/                       
+│   └── test_captcha.py     
+│
+├── ref/                          
+│   └── Img_1.png                
+│   └── Img_2.png                 
+│   └── thumbnail.png              
+│
+├── .gitignore
+├── README.md          
+└── requirements.txt                  
+```
+
 ## Running the Script
 
 You can execute the script using `pytest` as shown below:

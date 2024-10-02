@@ -1,3 +1,5 @@
+#tests/test_captcha.py
+
 import pytest
 from selenium import webdriver
 from pages.captcha_page import CaptchaPage
