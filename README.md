@@ -6,7 +6,7 @@ This project demonstrates how to automate solving CAPTCHAs using the 2captcha se
 
 ![Website Screenshot1](ref/Img_1.png)
 ![Website Screenshot2](ref/Img_2.png)
-[![Watch the demo video](ref/thumbnail.png)](https://youtu.be/10X5B2aSK9Y?si=Slc58HEc37Np2eSq)
+[![Watch the demo video](ref/thumbnail.png)](https://youtu.be/l3OP5Mj66Cs?si=JzoI9p-4pjfPtdlO)
 
 ## Features
 
